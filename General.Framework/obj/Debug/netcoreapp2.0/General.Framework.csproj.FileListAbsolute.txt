@@ -1,0 +1,17 @@
+E:\Study\VS\General.Mvc-master\General.Framework\bin\Debug\netcoreapp2.0\General.Framework.deps.json
+E:\Study\VS\General.Mvc-master\General.Framework\bin\Debug\netcoreapp2.0\General.Framework.dll
+E:\Study\VS\General.Mvc-master\General.Framework\bin\Debug\netcoreapp2.0\General.Framework.pdb
+E:\Study\VS\General.Mvc-master\General.Framework\bin\Debug\netcoreapp2.0\General.Core.dll
+E:\Study\VS\General.Mvc-master\General.Framework\bin\Debug\netcoreapp2.0\General.DTO.dll
+E:\Study\VS\General.Mvc-master\General.Framework\bin\Debug\netcoreapp2.0\General.Entity.dll
+E:\Study\VS\General.Mvc-master\General.Framework\bin\Debug\netcoreapp2.0\General.IService.dll
+E:\Study\VS\General.Mvc-master\General.Framework\bin\Debug\netcoreapp2.0\General.Core.pdb
+E:\Study\VS\General.Mvc-master\General.Framework\bin\Debug\netcoreapp2.0\General.Entity.pdb
+E:\Study\VS\General.Mvc-master\General.Framework\bin\Debug\netcoreapp2.0\General.IService.pdb
+E:\Study\VS\General.Mvc-master\General.Framework\bin\Debug\netcoreapp2.0\General.DTO.pdb
+E:\Study\VS\General.Mvc-master\General.Framework\obj\Debug\netcoreapp2.0\General.Framework.csprojAssemblyReference.cache
+E:\Study\VS\General.Mvc-master\General.Framework\obj\Debug\netcoreapp2.0\General.Framework.AssemblyInfoInputs.cache
+E:\Study\VS\General.Mvc-master\General.Framework\obj\Debug\netcoreapp2.0\General.Framework.AssemblyInfo.cs
+E:\Study\VS\General.Mvc-master\General.Framework\obj\Debug\netcoreapp2.0\General.Framework.csproj.CopyComplete
+E:\Study\VS\General.Mvc-master\General.Framework\obj\Debug\netcoreapp2.0\General.Framework.dll
+E:\Study\VS\General.Mvc-master\General.Framework\obj\Debug\netcoreapp2.0\General.Framework.pdb

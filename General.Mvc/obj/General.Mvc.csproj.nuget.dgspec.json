@@ -1,0 +1,536 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Study\\VS\\General.Mvc-master\\General.Mvc\\General.Mvc.csproj": {}
+  },
+  "projects": {
+    "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj",
+        "projectName": "General.Core",
+        "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\VS\\General.Mvc-master\\General.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\VS\\General.Mvc-master\\General.DTO\\General.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\VS\\General.Mvc-master\\General.DTO\\General.DTO.csproj",
+        "projectName": "General.DTO",
+        "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.DTO\\General.DTO.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\VS\\General.Mvc-master\\General.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj",
+        "projectName": "General.Entity",
+        "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\VS\\General.Mvc-master\\General.Framework\\General.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\VS\\General.Mvc-master\\General.Framework\\General.Framework.csproj",
+        "projectName": "General.Framework",
+        "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Framework\\General.Framework.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\VS\\General.Mvc-master\\General.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.IService\\General.IService.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.IService\\General.IService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Html.Abstractions": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Formatters.Json": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\VS\\General.Mvc-master\\General.IService\\General.IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\VS\\General.Mvc-master\\General.IService\\General.IService.csproj",
+        "projectName": "General.IService",
+        "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.IService\\General.IService.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\VS\\General.Mvc-master\\General.IService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.DTO\\General.DTO.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.DTO\\General.DTO.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\VS\\General.Mvc-master\\General.Mvc\\General.Mvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\VS\\General.Mvc-master\\General.Mvc\\General.Mvc.csproj",
+        "projectName": "General.Mvc",
+        "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Mvc\\General.Mvc.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\VS\\General.Mvc-master\\General.Mvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.DTO\\General.DTO.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.DTO\\General.DTO.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.Framework\\General.Framework.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Framework\\General.Framework.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.IService\\General.IService.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.IService\\General.IService.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.Service\\General.Service.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Service\\General.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Autofac.Configuration": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Study\\VS\\General.Mvc-master\\General.Service\\General.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\VS\\General.Mvc-master\\General.Service\\General.Service.csproj",
+        "projectName": "General.Service",
+        "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Service\\General.Service.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\VS\\General.Mvc-master\\General.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Core\\General.Core.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.DTO\\General.DTO.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.DTO\\General.DTO.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Entity\\General.Entity.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.Framework\\General.Framework.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.Framework\\General.Framework.csproj"
+              },
+              "E:\\Study\\VS\\General.Mvc-master\\General.IService\\General.IService.csproj": {
+                "projectPath": "E:\\Study\\VS\\General.Mvc-master\\General.IService\\General.IService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

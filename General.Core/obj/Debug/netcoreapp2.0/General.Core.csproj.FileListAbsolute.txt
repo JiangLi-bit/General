@@ -1,0 +1,7 @@
+E:\Study\VS\General.Mvc-master\General.Core\bin\Debug\netcoreapp2.0\General.Core.deps.json
+E:\Study\VS\General.Mvc-master\General.Core\bin\Debug\netcoreapp2.0\General.Core.dll
+E:\Study\VS\General.Mvc-master\General.Core\bin\Debug\netcoreapp2.0\General.Core.pdb
+E:\Study\VS\General.Mvc-master\General.Core\obj\Debug\netcoreapp2.0\General.Core.AssemblyInfoInputs.cache
+E:\Study\VS\General.Mvc-master\General.Core\obj\Debug\netcoreapp2.0\General.Core.AssemblyInfo.cs
+E:\Study\VS\General.Mvc-master\General.Core\obj\Debug\netcoreapp2.0\General.Core.dll
+E:\Study\VS\General.Mvc-master\General.Core\obj\Debug\netcoreapp2.0\General.Core.pdb

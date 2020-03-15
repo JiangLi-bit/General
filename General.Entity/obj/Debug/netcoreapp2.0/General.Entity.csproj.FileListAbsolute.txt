@@ -1,0 +1,11 @@
+E:\Study\VS\General.Mvc-master\General.Entity\bin\Debug\netcoreapp2.0\General.Entity.deps.json
+E:\Study\VS\General.Mvc-master\General.Entity\bin\Debug\netcoreapp2.0\General.Entity.dll
+E:\Study\VS\General.Mvc-master\General.Entity\bin\Debug\netcoreapp2.0\General.Entity.pdb
+E:\Study\VS\General.Mvc-master\General.Entity\bin\Debug\netcoreapp2.0\General.Core.dll
+E:\Study\VS\General.Mvc-master\General.Entity\bin\Debug\netcoreapp2.0\General.Core.pdb
+E:\Study\VS\General.Mvc-master\General.Entity\obj\Debug\netcoreapp2.0\General.Entity.csprojAssemblyReference.cache
+E:\Study\VS\General.Mvc-master\General.Entity\obj\Debug\netcoreapp2.0\General.Entity.AssemblyInfoInputs.cache
+E:\Study\VS\General.Mvc-master\General.Entity\obj\Debug\netcoreapp2.0\General.Entity.AssemblyInfo.cs
+E:\Study\VS\General.Mvc-master\General.Entity\obj\Debug\netcoreapp2.0\General.Entity.csproj.CopyComplete
+E:\Study\VS\General.Mvc-master\General.Entity\obj\Debug\netcoreapp2.0\General.Entity.dll
+E:\Study\VS\General.Mvc-master\General.Entity\obj\Debug\netcoreapp2.0\General.Entity.pdb

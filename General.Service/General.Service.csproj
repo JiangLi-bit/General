@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.6.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\General.Core\General.Core.csproj" />
+    <ProjectReference Include="..\General.DTO\General.DTO.csproj" />
+    <ProjectReference Include="..\General.Entity\General.Entity.csproj" />
+    <ProjectReference Include="..\General.Framework\General.Framework.csproj" />
+    <ProjectReference Include="..\General.IService\General.IService.csproj" />
+  </ItemGroup>
+
+</Project>

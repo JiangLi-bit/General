@@ -1,0 +1,15 @@
+E:\Study\VS\General.Mvc-master\General.IService\bin\Debug\netcoreapp2.0\General.IService.deps.json
+E:\Study\VS\General.Mvc-master\General.IService\bin\Debug\netcoreapp2.0\General.IService.dll
+E:\Study\VS\General.Mvc-master\General.IService\bin\Debug\netcoreapp2.0\General.IService.pdb
+E:\Study\VS\General.Mvc-master\General.IService\bin\Debug\netcoreapp2.0\General.Core.dll
+E:\Study\VS\General.Mvc-master\General.IService\bin\Debug\netcoreapp2.0\General.DTO.dll
+E:\Study\VS\General.Mvc-master\General.IService\bin\Debug\netcoreapp2.0\General.Entity.dll
+E:\Study\VS\General.Mvc-master\General.IService\bin\Debug\netcoreapp2.0\General.Core.pdb
+E:\Study\VS\General.Mvc-master\General.IService\bin\Debug\netcoreapp2.0\General.DTO.pdb
+E:\Study\VS\General.Mvc-master\General.IService\bin\Debug\netcoreapp2.0\General.Entity.pdb
+E:\Study\VS\General.Mvc-master\General.IService\obj\Debug\netcoreapp2.0\General.IService.csprojAssemblyReference.cache
+E:\Study\VS\General.Mvc-master\General.IService\obj\Debug\netcoreapp2.0\General.IService.AssemblyInfoInputs.cache
+E:\Study\VS\General.Mvc-master\General.IService\obj\Debug\netcoreapp2.0\General.IService.AssemblyInfo.cs
+E:\Study\VS\General.Mvc-master\General.IService\obj\Debug\netcoreapp2.0\General.IService.csproj.CopyComplete
+E:\Study\VS\General.Mvc-master\General.IService\obj\Debug\netcoreapp2.0\General.IService.dll
+E:\Study\VS\General.Mvc-master\General.IService\obj\Debug\netcoreapp2.0\General.IService.pdb
